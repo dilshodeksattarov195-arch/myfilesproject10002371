@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartualidate",
+        "uuid": 12981225,
+        "checksum": "mmcrtc"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
